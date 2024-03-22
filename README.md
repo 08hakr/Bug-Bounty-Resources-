@@ -1,0 +1,2 @@
+# Resources
+Bug Bounty Resources 
