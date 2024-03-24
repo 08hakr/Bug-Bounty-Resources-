@@ -2,7 +2,7 @@
 Bug Bounty Resources 
 # Learn
 No one gonna Spoon feeds you take your own footsteps you will get guidance and help whenever you need it.
-CAUTION: DO NOT DUAL BOOT YOUR SYSTEM BY YOURSELF. THIS STUNT DONE UNDER SURVEILLANCE ONLY!!!
+##CAUTION: DO NOT DUAL BOOT YOUR SYSTEM BY YOURSELF. THIS STUNT DONE UNDER SURVEILLANCE ONLY!!!
 
 What in Repo:
 # INDEX
