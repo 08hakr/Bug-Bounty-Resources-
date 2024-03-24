@@ -10,3 +10,5 @@ What in Repo:
   - This file contains the list of Various Youtubers, Reports (Platform where you Find Spice Things), News Letters (Some Provides Weekly), CTF's, Practice Learn, BugBounty Platforms, Books, etc Stuff Go and see whats inside.
 - [THM.md](https://github.com/08hakr/Bug-Bounty-Resources-/blob/main/THM.md) :
   -  This file contains the List of THM FREE labs from Starting. 
+- [Book](https://github.com/08hakr/Bug-Bounty-Resources-/tree/main/Books)
+  -  books that will help you in your journey.
