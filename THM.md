@@ -18,7 +18,7 @@ CaptureTheFreeFlag is a meticulously curated and continuously updated repository
 
 ## Basics Rooms:
 
-- https://tryhackme.com/room/linux2
+- https://tryhackme.com/room/linux2  Not available
 - https://tryhackme.com/room/linuxmodules
 - https://tryhackme.com/room/linuxfundamentalspart1
 - https://tryhackme.com/room/linuxfundamentalspart2
@@ -26,7 +26,7 @@ CaptureTheFreeFlag is a meticulously curated and continuously updated repository
 - https://tryhackme.com/room/basicpentestingjt
 - https://tryhackme.com/room/pentestingfundamentals
 - https://tryhackme.com/room/principlesofsecurity
-- https://tryhackme.com/room/ccpentesting
+- https://tryhackme.com/room/ccpentesting Not available
 - https://tryhackme.com/room/hackermethodology
 - https://tryhackme.com/room/physicalsecurityintro
 - https://tryhackme.com/room/linuxstrengthtraining
