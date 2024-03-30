@@ -71,7 +71,8 @@ CaptureTheFreeFlag is a meticulously curated and continuously updated repository
 ## Tooling:
 
 - https://tryhackme.com/room/metasploitintro
-- https://tryhackme.com/room/rpmetasploithttps://tryhackme.com/room/rptmux
+- https://tryhackme.com/room/rpmetasploit
+- https://tryhackme.com/room/rptmux
 - https://tryhackme.com/room/tmuxremux
 - https://tryhackme.com/room/hydra
 - https://tryhackme.com/room/rpsublist3r
