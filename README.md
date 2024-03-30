@@ -12,3 +12,5 @@ What in Repo:
   -  This file contains the List of THM FREE labs from Starting. 
 - [Book](https://github.com/08hakr/Bug-Bounty-Resources-/tree/main/Books)
   -  books that will help you in your journey.
+- [100Vulnerabilities.md](https://github.com/08hakr/Bug-Bounty-Resources-/blob/main/vulnerabilities%20list/100Vulnerabilities.md)
+  - Contains various VUlnerabilities.
