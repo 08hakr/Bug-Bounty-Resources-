@@ -18,14 +18,15 @@ CaptureTheFreeFlag is a meticulously curated and continuously updated repository
 
 ## Basics Rooms:
 
-- https://tryhackme.com/room/linux2
+- https://tryhackme.com/room/linux2  Not available
 - https://tryhackme.com/room/linuxmodules
 - https://tryhackme.com/room/linuxfundamentalspart1
 - https://tryhackme.com/room/linuxfundamentalspart2
 - https://tryhackme.com/room/linuxfundamentalspart3
-- https://tryhackme.com/room/basicpentestingjthttps://tryhackme.com/room/pentestingfundamentals
+- https://tryhackme.com/room/basicpentestingjt
+- https://tryhackme.com/room/pentestingfundamentals
 - https://tryhackme.com/room/principlesofsecurity
-- https://tryhackme.com/room/ccpentesting
+- https://tryhackme.com/room/ccpentesting Not available
 - https://tryhackme.com/room/hackermethodology
 - https://tryhackme.com/room/physicalsecurityintro
 - https://tryhackme.com/room/linuxstrengthtraining
@@ -71,7 +72,8 @@ CaptureTheFreeFlag is a meticulously curated and continuously updated repository
 ## Tooling:
 
 - https://tryhackme.com/room/metasploitintro
-- https://tryhackme.com/room/rpmetasploithttps://tryhackme.com/room/rptmux
+- https://tryhackme.com/room/rpmetasploit
+- https://tryhackme.com/room/rptmux
 - https://tryhackme.com/room/tmuxremux
 - https://tryhackme.com/room/hydra
 - https://tryhackme.com/room/rpsublist3r
