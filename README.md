@@ -1,7 +1,7 @@
 # Resources
 Bug Bounty Resources 
 # Learn
-## _No one gonna Spoon feeds you take your own footsteps you will get guidance and help whenever you need it._
+## _*No one gonna Spoon feeds you take your own footsteps you will get guidance and help whenever you need it.*_
 ### CAUTION: DO NOT DUAL BOOT YOUR SYSTEM BY YOURSELF. THIS STUNT DONE UNDER SURVEILLANCE ONLY!!!
 
 ## What's in Repo:
